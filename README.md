@@ -43,8 +43,9 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
+- **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 
---- 
+---
 
 ## 💰 Crypto Payments MCPs
 
