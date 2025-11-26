@@ -35,7 +35,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server)** – Supports **30+ EVM-compatible blockchains**, including Ethereum, Polygon, BSC, and Arbitrum. Enables contract interactions, ERC-20 balance queries, and ENS lookups.
 - **[GOAT On-Chain Agent MCP](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** – "One MCP to rule all chains" with **200+ on-chain actions** across Ethereum, Solana, and Base. Fetch data and execute smart contract interactions.
 - **[Solana MCP (SendAI)](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** – Dedicated **Solana MCP server** with **40+ Solana-specific actions**, including SPL token management and account data.
-
+- **[Blockchain MCP powered by Tatum](https://github.com/tatumio/blockchain-mcp)** – A Model Context Protocol (MCP) server that provides access to the Tatum Blockchain Data API and RPC Gateway, enabling any LLM to read and write blockchain data across 130+ networks.
 ---
 
 ## 📊 Blockchain Data
@@ -44,6 +44,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
+- **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
 ---
 
