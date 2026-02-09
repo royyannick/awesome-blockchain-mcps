@@ -20,6 +20,7 @@ Some of the projects listed below comes directly for that official list.
 
 - [🌍 What is MCP?](#-what-is-mcp)
 - [🔗 On-Chain Integration MCPs](#-on-chain-integration-mcps)
+- [⛓️ Algorand](#%EF%B8%8F-algorand)
 - [💰 Crypto Finance & Payments MCPs](#-crypto-finance--payments-mcps)
 - [🔍 Blockchain Analytics & Security MCPs](#-blockchain-analytics--security-mcps)
 - [💡 Contributing](#-contributing)
@@ -36,6 +37,21 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[GOAT On-Chain Agent MCP](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** – "One MCP to rule all chains" with **200+ on-chain actions** across Ethereum, Solana, and Base. Fetch data and execute smart contract interactions.
 - **[Solana MCP (SendAI)](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** – Dedicated **Solana MCP server** with **40+ Solana-specific actions**, including SPL token management and account data.
 - **[Blockchain MCP powered by Tatum](https://github.com/tatumio/blockchain-mcp)** – A Model Context Protocol (MCP) server that provides access to the Tatum Blockchain Data API and RPC Gateway, enabling any LLM to read and write blockchain data across 130+ networks.
+
+---
+
+## ⛓️ Algorand
+
+MCP servers for interacting with the [Algorand](https://algorand.co/) blockchain ecosystem, including smart contracts, DeFi protocols, and developer tooling.
+
+| Name | Description | Stars |
+|------|-------------|-------|
+| [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) | Comprehensive MCP server for interacting with Algorand blockchain. Supports algod, indexer, NFD, Vestige, Tinyman, and more. | 30+ |
+| [vibekit](https://github.com/gabrielkuettel/vibekit) | AI-powered development toolkit for building on Algorand with MCP integration. Monorepo with MCP server, prompts, and examples. | 10+ |
+| [algorand-agent-skills](https://github.com/algorand-devrel/algorand-agent-skills) | Official Algorand agent skills (tools) for AI agents, including transaction building, account management, and ARC-200 tokens. | 5+ |
+| [algorand-agent](https://github.com/gabrielkuettel/algorand-agent) | Model Context Provider for Algorand — MCP-based agent for interacting with Algorand networks. | 4+ |
+| [Algo-ADK](https://github.com/miscsamchris/Algo-ADK) | Algorand Agent Development Kit — toolkit for building AI agents that interact with Algorand. | 1+ |
+
 ---
 
 ## 📊 Blockchain Data
