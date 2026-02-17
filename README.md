@@ -45,6 +45,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- **[Fan Token Intel MCP](https://github.com/BrunoPessoa22/chiliz-marketing-intel)** -- **67+ tools** for fan token intelligence on Chiliz Chain. Whale flow tracking, composite signal scoring, sports match-price correlation (847+ matchdays), backtesting engine, DEX liquidity analytics, and social sentiment. SSE transport.
 
 ---
 
