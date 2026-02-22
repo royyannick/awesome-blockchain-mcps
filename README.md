@@ -44,6 +44,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
+- **[CryptoMinute](https://github.com/zkoranges/crypto_minute/tree/main/cmd/mcp)** – AI-powered crypto news intelligence with **8 tools**: news search, narrative analytics, AI-clustered stories, Reddit sentiment, YouTube engagement, historical prices, token metadata, and Telegram flash posts. Aggregates **50+ sources** with significance scoring and sentiment analysis.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
 ---
