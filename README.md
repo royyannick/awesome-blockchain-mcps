@@ -85,3 +85,5 @@ Contributions are welcome from all blockchain and AI developers.
 [MIT License](LICENSE)
 
 This project is open-source and maintained by the community. Help us make it the best resource for **Blockchain MCPs**! 💙
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
