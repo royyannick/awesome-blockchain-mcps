@@ -65,6 +65,7 @@ MCP servers providing analytics, compliance, and security insights for blockchai
 - **[Heurist Mesh MCP](https://github.com/heurist-network/heurist-mesh-mcp-server)** – Provides **on-chain analytics**, token metrics, and security insights for smart contracts.
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
 - **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
+- **[Philidor DeFi Vault Risk Analytics](https://github.com/Philidor-Labs/philidor-mcp)** – Search and score **700+ DeFi vaults** across Morpho, Aave, Spark, Yearn, Beefy, Compound, and Uniswap. Three-vector risk framework (Asset 40%, Platform 40%, Governance 20%) with Prime/Core/Edge tier classification. Remote server at [mcp.philidor.io](https://mcp.philidor.io) — no API key needed.
 
 ---
 
