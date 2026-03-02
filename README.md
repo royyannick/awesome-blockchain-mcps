@@ -36,6 +36,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[GOAT On-Chain Agent MCP](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** – "One MCP to rule all chains" with **200+ on-chain actions** across Ethereum, Solana, and Base. Fetch data and execute smart contract interactions.
 - **[Solana MCP (SendAI)](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** – Dedicated **Solana MCP server** with **40+ Solana-specific actions**, including SPL token management and account data.
 - **[Blockchain MCP powered by Tatum](https://github.com/tatumio/blockchain-mcp)** – A Model Context Protocol (MCP) server that provides access to the Tatum Blockchain Data API and RPC Gateway, enabling any LLM to read and write blockchain data across 130+ networks.
+- **[mcp-server-insumer](https://github.com/douglasborthwick-crypto/mcp-server-insumer)** – On-chain verification and attestation MCP server. 25 tools across 32 blockchains (30 EVM + Solana + XRPL). Returns ECDSA P-256 signed boolean proofs of token balances, NFT ownership, EAS credentials, and wallet trust profiles. No Web3 libraries required. Used by DJD Agent Score (Coinbase x402).
 ---
 
 ## 📊 Blockchain Data
