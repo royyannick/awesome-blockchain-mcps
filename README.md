@@ -46,6 +46,8 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
+- **[DeFi MCP Server](https://github.com/OzorOwn/defi-mcp)** – Real-time **token prices** (500+ tokens via CoinGecko), **multi-chain wallet balances** (9 chains including Ethereum, Solana, BSC, Polygon), **gas tracking**, and **DEX quotes** (Jupiter, 1inch). Works with Claude Desktop, Cursor, and any MCP client.
+
 ---
 
 ## 💰 Crypto Payments MCPs
