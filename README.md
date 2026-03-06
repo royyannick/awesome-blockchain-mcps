@@ -38,6 +38,8 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[Blockchain MCP powered by Tatum](https://github.com/tatumio/blockchain-mcp)** – A Model Context Protocol (MCP) server that provides access to the Tatum Blockchain Data API and RPC Gateway, enabling any LLM to read and write blockchain data across 130+ networks.
 ---
 
+- **[OBSD LaunchPad MCP](https://github.com/thryxagi/obsd-launchpad)** – Full token lifecycle MCP for AI agents on **Base**. 12 tools: deploy tokens, buy, sell, claim fees, get quotes, referral program, and query earnings — all via `npx obsd-launchpad-mcp`. Treasury-backed intrinsic value floor, progressive sell tax, and 37.5% passive OBSD fee income. 10 verified contracts, 275 tests.
+
 ## 📊 Blockchain Data
 
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
