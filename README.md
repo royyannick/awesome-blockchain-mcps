@@ -55,6 +55,10 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[Base Gasless Deploy MCP](https://github.com/lordbasilaiassistant-sudo/base-gasless-deploy-mcp)** – Gasless ERC-20 token deployment on Base using CDP Paymaster. 5 tools.
+- **[Base Flash Arb MCP](https://github.com/lordbasilaiassistant-sudo/base-flash-arb-mcp)** – Arbitrage detection across DEXes on Base. Scan pairs, detect price gaps, simulate flash loans. 7 tools.
+- **[Base Multi-Wallet MCP](https://github.com/lordbasilaiassistant-sudo/base-multi-wallet-mcp)** – Coordinated multi-wallet trading on Base. Create wallets, distribute funds, synchronized trades. 8 tools.
+- **[Base Price Oracle MCP](https://github.com/lordbasilaiassistant-sudo/base-price-oracle-mcp)** – On-chain price feeds from Base DEX pools. Spot prices, TWAP, liquidity depth. 7 tools.
 
 ---
 
@@ -65,6 +69,7 @@ MCP servers providing analytics, compliance, and security insights for blockchai
 - **[Heurist Mesh MCP](https://github.com/heurist-network/heurist-mesh-mcp-server)** – Provides **on-chain analytics**, token metrics, and security insights for smart contracts.
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
 - **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
+- **[Base Security Scanner MCP](https://github.com/lordbasilaiassistant-sudo/base-security-scanner-mcp)** – Smart contract security scanner for Base. Detect honeypots, rug pulls, hidden mints, proxy dangers, bytecode analysis. 8 tools.
 
 ---
 
