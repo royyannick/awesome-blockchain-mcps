@@ -45,6 +45,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- **[bitcoin-mcp](https://github.com/Bortlesboat/bitcoin-mcp)** – 43 tools for Bitcoin data: fees, mempool, blocks, transactions, mining stats, price, and supply. Zero config — auto-connects to hosted API or local Bitcoin Core node. First Bitcoin MCP on the [official Anthropic registry](https://github.com/modelcontextprotocol/servers).
 
 ---
 
