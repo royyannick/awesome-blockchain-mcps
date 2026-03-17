@@ -49,6 +49,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- **[Fan Token Intel MCP](https://github.com/BrunoPessoa22/chiliz-marketing-intel)** -- **67+ tools** for fan token intelligence on Chiliz Chain. Whale flow tracking, composite signal scoring, sports match-price correlation (847+ matchdays), backtesting engine, DEX liquidity analytics, and social sentiment. SSE transport.
 
 ---
 
