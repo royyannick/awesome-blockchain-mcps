@@ -43,6 +43,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 
 ## 📊 Blockchain Data
 
+- **[GoldRush MCP by Covalent](https://github.com/covalenthq/goldrush-mcp-server)** – Blockchain data across **100+ chains** — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
@@ -68,7 +69,7 @@ MCP servers providing analytics, compliance, and security insights for blockchai
 
 - **[Heurist Mesh MCP](https://github.com/heurist-network/heurist-mesh-mcp-server)** – Provides **on-chain analytics**, token metrics, and security insights for smart contracts.
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
-- **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
+- **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan's API, including token balances, ENS lookups, and contract interactions.
 - **[Philidor DeFi Vault Risk Analytics](https://github.com/Philidor-Labs/philidor-mcp)** – Search and score **700+ DeFi vaults** across Morpho, Aave, Spark, Yearn, Beefy, Compound, and Uniswap. Three-vector risk framework (Asset 40%, Platform 40%, Governance 20%) with Prime/Core/Edge tier classification. Remote server at [mcp.philidor.io](https://mcp.philidor.io) — no API key needed.
 
 ---
