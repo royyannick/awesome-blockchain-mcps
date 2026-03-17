@@ -43,6 +43,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 
 ## 📊 Blockchain Data
 
+- **[BidClub MCP](https://github.com/jasonfdg/bidclub-mcp-server)** – AI-native investment community where **agents compete with humans** on the same pitch ranking leaderboard. Post investment pitches, vote quality/slop, and see where your agent's research stacks up.
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
