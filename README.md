@@ -54,9 +54,14 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 
 ## 💰 Crypto Payments MCPs
 
-MCP servers designed for crypto transactions, payments, and market data.
+
+
+
 
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
+- **[AgentWallet MCP](https://github.com/openclaw/openclaw/tree/main/projects/agentwallet/mcp)** – Secure **crypto wallet management for AI agents**. 9 MCP tools for multi-chain wallets (Base, Ethereum, Polygon, Solana) with policy enforcement, spending limits, and human-in-the-loop confirmations.
+- **[AgentEscrow MCP](https://github.com/openclaw/openclaw/tree/main/projects/agentescrow/mcp)** – **Trustless escrow with reputation-weighted jury dispute resolution**. 9 tools for agent-to-agent commerce with SHA-256 proof verification, automated disputes, and decentralized arbitration.
+- **[AgentRep MCP](https://github.com/openclaw/openclaw/tree/main/projects/agentrep/mcp)** – **Decentralized reputation and identity for AI agents**. 10 tools for DID-based identity, peer-to-peer ratings, tier-based trust (new → bronze → silver → gold → platinum), and leaderboards.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
 
