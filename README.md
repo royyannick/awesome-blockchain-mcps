@@ -59,6 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[runes-busd1-mcp](https://github.com/ElromEvedElElyon/flash-payment-system)** – First write-capable **Bitcoin Runes MCP server**. 12 tools for minting, transferring, and listing BITCOIN•USD•ONE Runes. USD stablecoin (bUSD1) with Chainlink Proof of Reserves. Agent swarm coordinator and x402 agent-to-agent payments.
 
 ---
 
