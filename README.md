@@ -43,7 +43,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 
 ## 📊 Blockchain Data
 
-- **[GoldRush MCP by Covalent](https://github.com/covalenthq/goldrush-mcp-server)** – Blockchain data across **100+ chains** — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
+- **[GoldRush MCP by Covalent](https://goldrush.dev/docs/goldrush-mcp-server)** – Blockchain data across **100+ chains** — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
