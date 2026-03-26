@@ -41,6 +41,8 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS)** – Self-hosted wallet daemon for AI agents. **59+ MCP tools** for wallet management, DeFi (swap/lend/stake/bridge/perp), NFT, and x402 payments across **EVM + Solana**. Default-deny policy engine, spending limits, human approval, kill switch. Keys never leave the daemon.
 ---
 
+- **[OBSD LaunchPad MCP](https://github.com/thryxagi/obsd-launchpad)** – Full token lifecycle MCP for AI agents on **Base**. 12 tools: deploy tokens, buy, sell, claim fees, get quotes, referral program, and query earnings — all via `npx obsd-launchpad-mcp`. Treasury-backed intrinsic value floor, progressive sell tax, and 37.5% passive OBSD fee income. 10 verified contracts, 275 tests.
+
 ## 📊 Blockchain Data
 
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
