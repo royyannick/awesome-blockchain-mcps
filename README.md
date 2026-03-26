@@ -50,6 +50,8 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
+- **[DeFi MCP Server](https://github.com/OzorOwn/defi-mcp)** – Real-time **token prices** (500+ tokens via CoinGecko), **multi-chain wallet balances** (9 chains including Ethereum, Solana, BSC, Polygon), **gas tracking**, and **DEX quotes** (Jupiter, 1inch). Works with Claude Desktop, Cursor, and any MCP client.
+
 ---
 
 ## 💰 Crypto Payments MCPs
