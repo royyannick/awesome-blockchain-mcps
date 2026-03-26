@@ -49,6 +49,8 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- **[DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp)** – Real-time DEX data across **34 blockchains**. 30M+ pools, 27M+ tokens, OHLCV, trades, and search. Free, no API key, no rate limits. Hosted MCP at `mcp.dexpaprika.com`. Install: `npx dexpaprika-mcp`
+- **[CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp)** – Crypto market data for **12,000+ coins** and 350+ exchanges. Tickers, OHLCV, historical prices, contract lookups, price converter. Free tier, no API key needed. Hosted MCP at `mcp.coinpaprika.com`.
 
 ---
 
