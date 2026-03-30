@@ -47,8 +47,9 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
-- **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- **[Lightyear CryptoPunks](https://punks.lightyear.build)** – Browse traits, filter 10K punks, real-time marketplace listings, bid depth, Merkle root computation, and AI-assisted bid pricing for the **native CryptoPunks marketplace**. 11 tools, Streamable HTTP, free, no API key. Remote server at `https://punks.lightyear.build/api/mcp`.
+- **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 
 ---
 
@@ -68,7 +69,7 @@ MCP servers providing analytics, compliance, and security insights for blockchai
 
 - **[Heurist Mesh MCP](https://github.com/heurist-network/heurist-mesh-mcp-server)** – Provides **on-chain analytics**, token metrics, and security insights for smart contracts.
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
-- **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
+- **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan's API, including token balances, ENS lookups, and contract interactions.
 - **[Philidor DeFi Vault Risk Analytics](https://github.com/Philidor-Labs/philidor-mcp)** – Search and score **700+ DeFi vaults** across Morpho, Aave, Spark, Yearn, Beefy, Compound, and Uniswap. Three-vector risk framework (Asset 40%, Platform 40%, Governance 20%) with Prime/Core/Edge tier classification. Remote server at [mcp.philidor.io](https://mcp.philidor.io) — no API key needed.
 
 ---
