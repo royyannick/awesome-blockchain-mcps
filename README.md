@@ -90,3 +90,4 @@ Contributions are welcome from all blockchain and AI developers.
 [MIT License](LICENSE)
 
 This project is open-source and maintained by the community. Help us make it the best resource for **Blockchain MCPs**! 💙
+| [zcash-mcp](https://github.com/Frontier-Compute/zcash-mcp) | Zcash shielded operations for AI agents. Chain queries, memo decoding, on-chain attestation, proof verification. | `npx -y @frontiercompute/zcash-mcp` |
