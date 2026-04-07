@@ -59,6 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[ZKProofport MCP](https://github.com/zkproofport/proofport-ai)** – Zero-knowledge proof generation MCP server paid via **x402 USDC on Base**. Enables AI agents to prove identity claims (Coinbase KYC, Country, Google OIDC, Workspace, MS 365) without revealing personal information. AWS Nitro Enclave TEE proving, ERC-8004 registered. NPM: `@zkproofport-ai/mcp`.
 
 ---
 
