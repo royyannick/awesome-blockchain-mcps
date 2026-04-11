@@ -66,6 +66,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 
 MCP servers providing analytics, compliance, and security insights for blockchain networks.
 
+- **[DeFi Yield Scanner MCP](https://github.com/34t34f3/defi-yield-scanner-mcp)** – Real-time DeFi yield scanning, token risk analysis, and wallet exposure checking across Base, Ethereum, and Arbitrum. Data from DexScreener and DeFiLlama. Install: `npx defi-yield-scanner-mcp`.
 - **[Heurist Mesh MCP](https://github.com/heurist-network/heurist-mesh-mcp-server)** – Provides **on-chain analytics**, token metrics, and security insights for smart contracts.
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
 - **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
