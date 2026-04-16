@@ -41,6 +41,13 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS)** – Self-hosted wallet daemon for AI agents. **59+ MCP tools** for wallet management, DeFi (swap/lend/stake/bridge/perp), NFT, and x402 payments across **EVM + Solana**. Default-deny policy engine, spending limits, human approval, kill switch. Keys never leave the daemon.
 ---
 
+## 🔗 Aggregators
+Servers for accessing many apps and tools through a single MCP server.
+
+- **[Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp)** – Hosted MCP gateway that enables AI agents to discover and compare Web3 infra services (RPCs, indexing, oracles, storage, compute, dev tools, and more) across 50+ networks via a single endpoint.
+
+---
+
 ## 📊 Blockchain Data
 
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
