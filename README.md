@@ -59,6 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[AlgoVoi](https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters)** – Multi-chain payment gateway MCP supporting **7 chains** (Algorand, VOI, Hedera, Stellar, Base, Solana, Tempo). Creates hosted USDC checkouts and verifies on-chain settlement via x402, MPP, and AP2 protocols. Solana flow uses native Solana Pay `reference` pubkey binding.
 
 ---
 
