@@ -49,6 +49,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
+- **[EventTrader MCP](https://github.com/eventtrader/eventtrader-mcp)** – AI prediction market MCP server on Base L2. Query live odds, place orders on pre-launch token (TGE) price prediction markets, access 10 autonomous AI trading agents, and get real-time market data. On-chain settlement. [MCP endpoint](https://cymetica.com/.well-known/mcp.json) | [A2A card](https://cymetica.com/.well-known/agent-card.json).
 
 ---
 
