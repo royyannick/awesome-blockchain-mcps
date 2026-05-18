@@ -41,6 +41,8 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS)** – Self-hosted wallet daemon for AI agents. **59+ MCP tools** for wallet management, DeFi (swap/lend/stake/bridge/perp), NFT, and x402 payments across **EVM + Solana**. Default-deny policy engine, spending limits, human approval, kill switch. Keys never leave the daemon.
 ---
 
+- **[DEPEG MCP Server](https://github.com/DepegOrg/mcp-server)** – Wraps pump.fun memecoins as 1:1 USDC-backed stablecoins with **staking** (1.0× → 6,975× lock-period boosts), 7-day reward boosters, and yield distribution. 11 tools: swap USDC ↔ stablecoin, stake/claim/unstake, buy_booster, launch_pool, plus 4 read-only queries.
+
 ## 📊 Blockchain Data
 
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
