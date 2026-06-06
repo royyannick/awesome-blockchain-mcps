@@ -12,7 +12,7 @@ A curated list of **Blockchain & Crypto-related Model Context Protocol (MCP) ser
 
 Anthropic maintains an [official list](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file) of MCP servers.  
 While this Awesome Blockchain MCPs List focuses only on **the blockchain and crypto ecosystem**.  
-Some of the projects listed below comes directly for that official list.
+Some of the projects listed below come directly from that official list.
 
 ---
 
