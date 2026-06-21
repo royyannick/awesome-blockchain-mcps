@@ -59,6 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[TensorFeed x402 Base MCP](https://github.com/RipperMercs/tensorfeed-x402-base-mcp)** - Read-only **Base mainnet x402 payment verification**. Confirms on-chain that a USDC settlement matches a claimed x402 receipt (recipient and amount), parses publisher /.well-known/x402 manifests, and lists recent USDC payments to an address. No private keys, verification only. Run with `npx -y @tensorfeed/x402-base-mcp`.
 
 ---
 
