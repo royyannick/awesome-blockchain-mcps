@@ -90,3 +90,7 @@ Contributions are welcome from all blockchain and AI developers.
 [MIT License](LICENSE)
 
 This project is open-source and maintained by the community. Help us make it the best resource for **Blockchain MCPs**! 💙
+
+
+## Web3 Security Tools
+- [MetaVision AI Platform](https://metavision.click/mcp) - Blockchain MCP server. CVE Oracle, DeFi signals, wallet fraud detection. 18 MCP tools. x402 v2 on Base. ([Agent Card](https://metavision.click/.well-known/agent.json))
