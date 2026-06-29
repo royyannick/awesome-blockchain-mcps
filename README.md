@@ -59,6 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[Ophis MCP Server](https://github.com/ophis-fi/ophis/tree/main/apps/mcp-server)** - Intent-based DEX (a CoW Protocol deployment) that gives AI agents **MEV-protected, gasless, keyless token swaps** across 11 EVM chains. Non-custodial: the server builds an unsigned order and your agent signs it, with the receiver pinned to the signer. Ships 12 tools (parse_intent, resolve_token, get_quote, build_order, submit_order, and more); submit_order is the only state-changing call. Remote HTTP server at mcp.ophis.fi/mcp, no API key. Not affiliated with njayp/ophis (an unrelated Go MCP library); this is Ophis the DEX at ophis.fi.
 
 ---
 
