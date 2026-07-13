@@ -59,7 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
-- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel)** – Solana-native agent trust scoring via **x402 micropayments**: free on-chain preflight checks + paid signed V5 trust receipts settled on Solana in <1s. Remote server at [intel.twzrd.xyz](https://intel.twzrd.xyz) — no API key required.
+- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel)** – Solana-native agent trust scoring via **x402 micropayments**: free on-chain preflight checks + paid signed V6 trust receipts settled on Solana in <1s. Remote server at [intel.twzrd.xyz](https://intel.twzrd.xyz) — no API key required.
 
 ---
 
