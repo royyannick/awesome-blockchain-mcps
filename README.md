@@ -48,6 +48,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
 - **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
+- **[AgentServices](https://github.com/vbkotecha/aiservices-api)** – x402-paid crypto/market data API platform with **54 services, 97 endpoints, and 37 MCP tools**. Real-time prices, technical indicators, on-chain analytics, DeFi data, and more. HTTP 402 payment protocol on Base. [MCP server](https://agentservices.to/mcp) • [Website](https://agentservices.to)
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
 ---
