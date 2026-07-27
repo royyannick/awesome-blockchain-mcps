@@ -70,6 +70,7 @@ MCP servers providing analytics, compliance, and security insights for blockchai
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
 - **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
 - **[Philidor DeFi Vault Risk Analytics](https://github.com/Philidor-Labs/philidor-mcp)** – Search and score **700+ DeFi vaults** across Morpho, Aave, Spark, Yearn, Beefy, Compound, and Uniswap. Three-vector risk framework (Asset 40%, Platform 40%, Governance 20%) with Prime/Core/Edge tier classification. Remote server at [mcp.philidor.io](https://mcp.philidor.io) — no API key needed.
+- **[WealthVille](https://github.com/amitesh-m/wealthville-integrations)** – Score **~68,800 Solana liquidity pools** (Meteora DLMM, Orca Whirlpool, Raydium AMM/CLMM/CPMM) and **575 EVM pools** across Ethereum, Arbitrum, Base, Optimism, Polygon and BSC. Returns a 0-100 pool score and an Enter/Hold/Exit/Reduce/Avoid verdict with per-protocol calibrated confidence, plus a **miss-inclusive 30-day track record** so the signal can be evaluated before it is trusted. Remote server at [wealthville.net/mcp](https://wealthville.net/mcp) — no API key needed.
 
 ---
 
