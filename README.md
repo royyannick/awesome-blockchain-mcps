@@ -59,6 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[Energy Bill Toolkit x402 MCP](https://github.com/draeg82/energybilltoolkit-x402-mcp)** – Pay-per-call **x402** gateway (20 MCP tools: Lean Six Sigma/SPC audit, air quality, waste collection, text metrics, place distance, UK/US benefit estimators) settled in **USDC on Base** via the standard 402 flow. No API keys, no signup. Remote: `https://energybilltoolkit.co.uk/.well-known/x402.json`.
 
 ---
 
