@@ -36,7 +36,10 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[GOAT On-Chain Agent MCP](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol)** – "One MCP to rule all chains" with **200+ on-chain actions** across Ethereum, Solana, and Base. Fetch data and execute smart contract interactions.
 - **[Solana MCP (SendAI)](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server)** – Dedicated **Solana MCP server** with **40+ Solana-specific actions**, including SPL token management and account data.
 - **[Blockchain MCP powered by Tatum](https://github.com/tatumio/blockchain-mcp)** – A Model Context Protocol (MCP) server that provides access to the Tatum Blockchain Data API and RPC Gateway, enabling any LLM to read and write blockchain data across 130+ networks.
-- **[Bitcoin MCP (Bortlesboat)](https://github.com/Bortlesboat/bitcoin-mcp)** – 49 Bitcoin tools for AI agents — fee intelligence, mempool analysis, blocks, transactions, mining, price. Zero config, auto-falls back to hosted API. `pip install bitcoin-mcp`. 116 tests, MIT licensed.
+- **[Bitcoin MCP (Bortlesboat)](https://github.com/Bortlesboat/bitcoin-mcp)** – **49 Bitcoin tools**, six prompts, and eight resources for fee intelligence, mempool analysis, blocks, transactions, mining, and price data. Supports Bitcoin Core and configurable Satoshi API backends. MIT licensed.
+- **[deBridge MCP](https://github.com/debridge-finance/debridge-mcp)** – Enables AI agents to find optimal **cross-chain swap routes**, check fees, and initiate non-custodial trades across Ethereum, Solana, Arbitrum, Base, BNB Chain, Polygon, Optimism, Avalanche, Linea, Berachain, Tron, Cronos, Gnosis, Monad, Sonic, Flow, HyperEVM, Sei, Story, Injective, Abstract, MegaETH, Mantle, Plasma, Zilliqa, Sophon, Bob, Neon, and other chains.
+- **[Arcadia Finance](https://github.com/arcadia-finance/mcp-server)** - Manage concentrated liquidity positions with leverage, automated rebalancing, and yield optimization on Base and Optimism.
+- **[WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS)** – Self-hosted wallet daemon for AI agents. **59+ MCP tools** for wallet management, DeFi (swap/lend/stake/bridge/perp), NFT, and x402 payments across **EVM + Solana**. Default-deny policy engine, spending limits, human approval, kill switch. Keys never leave the daemon.
 ---
 
 ## 📊 Blockchain Data
@@ -45,6 +48,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
 - **[CoinCap MCP](https://github.com/QuantGeekDev/coincap-mcp)** – Provides **real-time crypto market data** from the CoinCap API **without requiring an API key**.
 - **[CoinStats MCP](https://github.com/CoinStatsHQ/coinstats-mcp)** – Provides access to cryptocurrency market data, portfolio tracking, and news.
+- **[Octav API MCP](https://github.com/Octav-Labs/octav-api-mcp)** – Multi-chain crypto portfolio tracking MCP server. Access wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains directly from Claude.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** - Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
 ---
@@ -66,6 +70,7 @@ MCP servers providing analytics, compliance, and security insights for blockchai
 - **[Heurist Mesh MCP](https://github.com/heurist-network/heurist-mesh-mcp-server)** – Provides **on-chain analytics**, token metrics, and security insights for smart contracts.
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
 - **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
+- **[Philidor DeFi Vault Risk Analytics](https://github.com/Philidor-Labs/philidor-mcp)** – Search and score **700+ DeFi vaults** across Morpho, Aave, Spark, Yearn, Beefy, Compound, and Uniswap. Three-vector risk framework (Asset 40%, Platform 40%, Governance 20%) with Prime/Core/Edge tier classification. Remote server at [mcp.philidor.io](https://mcp.philidor.io) — no API key needed.
 
 ---
 
