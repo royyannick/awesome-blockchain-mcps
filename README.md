@@ -59,6 +59,7 @@ MCP servers designed for crypto transactions, payments, and market data.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
+- **[stipend](https://github.com/stipend-sh/stipend)** – Non-custodial **USDC wallet on Base** that an AI agent installs unaided. Per-transaction, per-day and per-counterparty caps plus a destination allowlist are enforced in code between the decision and the signature, not in a prompt. Local stdio MCP server (`stipend mcp`) with 7 tools: address, balance, check, pay, earnings, report, recover. Python, Apache-2.0, not audited.
 
 ---
 
