@@ -42,6 +42,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 ---
 
 ## 📊 Blockchain Data
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow, watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up
 
 - **[CoinGecko MCP](https://github.com/Blockchain-MCPs/coingecko-mcp)** - Provides access to CoinGecko API to fetch tokens and market data.
 - **[CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server)** – Fetches **real-time cryptocurrency prices**, market cap, and volume data from CoinMarketCap.
