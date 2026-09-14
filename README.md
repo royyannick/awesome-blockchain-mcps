@@ -70,6 +70,7 @@ MCP servers providing analytics, compliance, and security insights for blockchai
 - **[Ergo Explorer MCP](https://github.com/marctheshark3/ergo-mcp)** – Queries **Ergo blockchain data**, including transaction history and forensic analysis of addresses.
 - **[Etherscan MCP](https://github.com/crazyrabbitLTC/mcp-etherscan-server)** – Fetch **Ethereum blockchain data** using Etherscan’s API, including token balances, ENS lookups, and contract interactions.
 - **[Philidor DeFi Vault Risk Analytics](https://github.com/Philidor-Labs/philidor-mcp)** – Search and score **700+ DeFi vaults** across Morpho, Aave, Spark, Yearn, Beefy, Compound, and Uniswap. Three-vector risk framework (Asset 40%, Platform 40%, Governance 20%) with Prime/Core/Edge tier classification. Remote server at [mcp.philidor.io](https://mcp.philidor.io) — no API key needed.
+- **[Sato Hub](https://satohub.ai/mcp)** – Read-only MCP over a daily-rebuilt index of **380+ onchain-agent tools** (frameworks, MCP servers, wallets, x402 rails), each scored 0-100 for how open, active and verifiable it is, plus weekly agent-economy measurements. Remote, no API key; data under CC-BY. Docs at [satohubai/mcp](https://github.com/satohubai/mcp).
 
 ---
 
