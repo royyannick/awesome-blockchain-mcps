@@ -56,6 +56,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 
 MCP servers designed for crypto transactions, payments, and market data.
 
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** – Local stdio MCP and CLI for crypto payments on macOS, with foreground owner approval for signing.
 - **[Lightning Network MCP](https://github.com/AbdelStark/lightning-mcp)** – Enables AI-driven **Bitcoin payments via Lightning Network**, supporting invoice payments and balance queries.
 - **[Zebedee ZBD MCP](https://github.com/zebedeeio/zbd-mcp-server)** – Connects AI agents to **Bitcoin Lightning** for micropayments and rewards.
 - **[Base USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer)** – AI-driven **USDC transfers on Base chain** using Coinbase MPC wallets (gas-free transfers).
