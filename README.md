@@ -62,6 +62,8 @@ MCP servers designed for crypto transactions, payments, and market data.
 
 ---
 
+- **[AutoTasker Hub](https://autotasker.highkingflower.com)** — Remote streamable-HTTP MCP server and x402 pay-per-call data API for AI agents: China social trending (Weibo, Douban, Zhihu, Bilibili, Tieba), search and 24h digest. Paid calls settle in USDC on Base via x402 with no API key or account; an unpaid call returns an HTTP 402 challenge with exact payment requirements. MIT-licensed source. ([MCP](https://autotasker.highkingflower.com/mcp)) ([Manifest](https://autotasker.highkingflower.com/.well-known/x402.json)) ([Proof](https://autotasker.highkingflower.com/api/x402/proof)) ([GitHub](https://github.com/breezesamuel/autotasker-hub-aevum))
+
 ## 🔍 Blockchain Analytics & Security MCPs
 
 MCP servers providing analytics, compliance, and security insights for blockchain networks.
